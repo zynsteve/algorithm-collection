@@ -19,6 +19,6 @@ public class BasicBackbag {
         int n = 5, w = 10;                    // number of items，capacity of backbag
         int[] value = {0, 6, 3, 5, 4, 6};     // value
         int[] weight = {0, 2, 2, 6, 5, 4};    // weight
-        System.out.println(getMaxValue(weight,value,w,n));
+        System.out.println(getMaxValue(weight, value, w, n));
     }
 }
