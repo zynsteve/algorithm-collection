@@ -11,7 +11,7 @@ public class Fibonacci {
     }
 	
 	/*
-	 *  Recursive. T(n) = T(n - 1) + T(n - 2) + O(1) => T(n) > Fn.
+	 *  Recursion. T(n) = T(n - 1) + T(n - 2) + O(1) => T(n) > Fn.
 	 *  Time complexity: O(1.618 ^ n)
 	 *  Space complexity: O(n)
 	 */
